@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @cccaelum
-- 📍 I am based in Córdoba, Spain
 - 🛠 I’m currently building my website
 
 
