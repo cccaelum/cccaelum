@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @cccaelum
-- 🛠 I’m currently building my website
+👋 Hi, I’m Celia
+🛠 I’m currently building my website
 
 
 
